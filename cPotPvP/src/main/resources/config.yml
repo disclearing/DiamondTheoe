@@ -1,0 +1,10 @@
+MONGO:
+  HOST: "panel.crystalpvp.org"
+  PORT: 27017
+  AUTHENTICATION:
+    ENABLED: true
+    USERNAME: "admin"
+    PASSWORD: "1qaz)OKM"
+Redis:
+  Host: localhost
+  Port: 6379
